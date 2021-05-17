@@ -1,2 +1,2 @@
 # time-lib
-## project for learning clojure
+project for learning clojure
